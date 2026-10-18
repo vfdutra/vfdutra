@@ -16,9 +16,7 @@ B.Sc. in Information Systems from UFSM. I use Claude Code every day.
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,express,nestjs,python,fastapi&theme=dark" alt="PHP, Laravel, JavaScript, TypeScript, React, Node.js, Express, NestJS, Python, FastAPI">
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,githubactions,linux,git&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, GitHub Actions, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nodejs,python,postgres,mongodb&theme=dark" alt="PHP, Laravel, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB">
 </p>
 
 AI: LangChain, LangGraph, RAG, ChromaDB, AWS Bedrock.
