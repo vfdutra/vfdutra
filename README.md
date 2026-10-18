@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Dutra</h1>
-<p align="center">Full-stack developer · PHP/Laravel, Node.js, React and AI agents · Santa Maria, RS, Brazil</p>
+<p align="center">Full-stack developer · PHP/Laravel, Node.js and React · Santa Maria, RS, Brazil</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vinicius-dutra-22b0a1220"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -7,7 +7,7 @@
 
 ---
 
-I build web platforms end to end, from the data model to the interface. Right now I work at **NodeAIoT** on a low-code IoT platform with AI: agent flows in Python (FastAPI, LangGraph, LangChain), RAG with ChromaDB and AWS Bedrock, and the Node.js/React product around it.
+I build web platforms end to end, from the data model to the interface. Right now I work at **NodeAIoT** on a low-code IoT platform, mostly on the Node.js, MongoDB and React side. It is also where I started with generative AI, working on RAG with LangChain and ChromaDB.
 
 Before that I built a fleet telemetry SaaS with Laravel, PostgreSQL and React at **Verden**: third-party APIs and webhooks, queues with Redis and Horizon, query tuning, tests with PHPUnit and incident analysis with Sentry. Earlier I worked on vehicle tracking (Delta Global), weather stations (Irriga Global) and a municipal ERP (Prefeitura de Santa Maria).
 
@@ -16,10 +16,10 @@ B.Sc. in Information Systems from UFSM. I use Claude Code every day.
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nodejs,python,postgres,mongodb&theme=dark" alt="PHP, Laravel, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nodejs,postgres,mongodb&theme=dark" alt="PHP, Laravel, TypeScript, React, Node.js, PostgreSQL, MongoDB">
 </p>
 
-AI: LangChain, LangGraph, RAG, ChromaDB, AWS Bedrock.
+Getting started with AI: LangChain, RAG, ChromaDB.
 
 ### GitHub
 
@@ -34,7 +34,7 @@ AI: LangChain, LangGraph, RAG, ChromaDB, AWS Bedrock.
 
 <br>
 
-Desenvolvedor full-stack. Construo plataformas web do modelo de dados à interface. Hoje estou na **NodeAIoT**, numa plataforma low-code de IoT com IA: fluxos de agentes em Python (FastAPI, LangGraph, LangChain), RAG com ChromaDB e AWS Bedrock, e o produto em Node.js e React.
+Desenvolvedor full-stack. Construo plataformas web do modelo de dados à interface. Hoje estou na **NodeAIoT**, numa plataforma low-code de IoT, principalmente no Node.js, MongoDB e React. Foi onde comecei com IA generativa, trabalhando com RAG usando LangChain e ChromaDB.
 
 Antes, na **Verden**, desenvolvi um SaaS de telemetria e gestão de frotas com Laravel, PostgreSQL e React: integrações com APIs e webhooks de terceiros, filas com Redis e Horizon, otimização de consultas, testes com PHPUnit e investigação de incidentes com o Sentry. Também passei por rastreamento veicular (Delta Global), estações meteorológicas (Irriga Global) e um ERP municipal (Prefeitura de Santa Maria).
 
